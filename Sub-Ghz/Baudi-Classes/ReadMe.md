@@ -31,7 +31,7 @@
 ### Attention :
 
 > [!IMPORTANT]
-> A usage uniquement à but éducatif
+> A usage uniquement à but éducatif </br>
 > Pour un grand lycée arrageois
 
 </br>
