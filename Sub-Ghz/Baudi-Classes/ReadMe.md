@@ -32,6 +32,7 @@
 
 > [!IMPORTANT]
 > A usage uniquement à but éducatif
+> Pour un grand lycée arrageois
 
 </br>
 
