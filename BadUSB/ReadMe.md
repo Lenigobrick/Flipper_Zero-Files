@@ -1,6 +1,12 @@
 # Ma collection de "BasUSB" 👀
 
 ---
+ - Les "BadUSB" ont un code couleur pour un meilleur utilisation : </br>
+  
+🟢 -> Vous pouvez directement l'uploid sur le Flipper Zero et l'exécuter sans modification. </br>
+🔵 -> Vous devez effectuer quelques modifications avant l'utilisation.
+
+---
 
 | Date Ajout | Code Couleur | Nom du BadUSB |
 |-----------:|-------------:|---------------|
