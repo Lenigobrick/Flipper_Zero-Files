@@ -29,7 +29,7 @@ Ici vous pourrez trouver plein de fichiers avec flipper zero !
    </br>
    </br>
  - Etape 4 : </br>
-    Vérifiez que le QFlipper affiche bien votre Flipper. Puis allez dans "File Manager" puis dans "SD Card", comme montré ci-dessous.
+    Vérifiez que le QFlipper affiche bien votre Flipper. Puis allez dans "File Manager" puis dans "SD Card", comme montré ci-dessous. </br>
      ![image](https://github.com/Lenigobrick/Flipper_Zero-Files/assets/122463955/48ed8bfe-867c-40b5-800e-d1e2f19cdbad)
    </br>
    </br>
