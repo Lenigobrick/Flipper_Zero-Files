@@ -1,0 +1,11 @@
+REM Ce script permet de vous connecter sur office en moins de 10sec
+REM Cree par Lenigobrick
+DELAY 1000
+ALTSTRING [Votre_Adresse_Mail_Office-365]
+DELAY 750
+ENTER
+DELAY 1000
+ALTSTRING [Votre_Mot_De_Passe_Office-365]
+ENTER
+DELAY 1000
+ENTER
