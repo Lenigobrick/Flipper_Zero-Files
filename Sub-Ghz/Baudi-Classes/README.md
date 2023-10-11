@@ -1,4 +1,6 @@
-# Comment mettre les fichiers dans le flipper-zero :
+# Comment gérer vos fichiers :
+
+## Comment mettre les fichiers dans le flipper-zero :
 
  - Etape 1 : Téléchargez le dossier "Baudi-Classes" qui se trouve juste [ICI](https://github.com/Lenigobrick/Flipper_Zero-Files/tree/main/Sub-Ghz), </br>
  - Etape 2 : Extraire le dossier vers votre bureau, </br>
