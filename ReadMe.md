@@ -7,6 +7,7 @@ Ici vous pourrez trouver plein de fichiers avec flipper zero !
 ---
 | Date | Update |
 |-----:|-----------|
+| 11/10/2023 | Ajout des 1er fichiers "BadUSB" |
 | 11/10/2023 | Ajout des 1er fichiers "Sub-Ghz" |
 ---
 
