@@ -23,6 +23,7 @@
 ### Les objectifs : 
 
  - [ ] 🟡 Avoir le maximum de dossiers
+ - [ ] 🔴 Créer une application pour faire encore pls simple
  - [x] 🟢 Faire une télécommande encore plus simple et efficace
 
 ---
