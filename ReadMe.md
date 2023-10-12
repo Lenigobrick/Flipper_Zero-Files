@@ -7,8 +7,8 @@ Ici vous pourrez trouver plein de fichiers avec flipper zero !
 ---
 | Date | Update |
 |-----:|-----------|
-| 11/10/2023 | Ajout des 1er fichiers "BadUSB" |
-| 11/10/2023 | Ajout des 1er fichiers "Sub-Ghz" |
+| 12/10/2023 | • Ajout d'un pack dans [Sub-GHz licée](https://github.com/Lenigobrick/Flipper_Zero-Files/tree/main/Sub-Ghz/Lycee_arrageois-classes) |
+| 11/10/2023 | • Ajout des 1er fichiers "Sub-Ghz" </br>  • Ajout des 1er fichiers "BadUSB" |
 ---
 
 ## Comment mettre des fichiers sur votre Flipper-Zero :
