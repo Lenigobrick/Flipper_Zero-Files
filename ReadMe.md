@@ -5,6 +5,11 @@ Ici vous pourrez trouver plein de fichiers avec flipper zero !
 ![flipperBANNER](https://github.com/Lenigobrick/Flipper_Zero-Files/assets/122463955/3b16df2d-6a50-45bc-9c44-5688e4e12613)
 
 ---
+
+### Firmware que j'utilise :
+ - [x] Unleashed
+
+---
 | Date | Update |
 |-----:|-----------|
 | 12/10/2023 | • Ajout d'un pack dans [Sub-GHz licée](https://github.com/Lenigobrick/Flipper_Zero-Files/tree/main/Sub-Ghz/Lycee_arrageois-classes) |
