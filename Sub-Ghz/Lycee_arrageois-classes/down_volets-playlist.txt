@@ -1,0 +1,18 @@
+# R3
+sub: /ext/subghz/lycee/r3/1_down.sub
+sub: /ext/subghz/lycee/r3/2_down_all.sub
+sub: /ext/subghz/lycee/r3/3_down.sub
+sub: /ext/subghz/lycee/r3/4_down_all.sub
+#
+# D5
+sub: /ext/subghz/lycee/d5/1_down_all.sub
+sub: /ext/subghz/lycee/d5/2_down.sub
+#
+# D7
+sub: /ext/subghz/lycee/d7/1_down.sub
+sub: /ext/subghz/lycee/d7/2_down.sub
+#
+# SP7
+sub: /ext/subghz/lycee/sp7/1_down.sub
+sub: /ext/subghz/lycee/sp7/2_down.sub
+sub: /ext/subghz/lycee/sp7/3_down.sub
