@@ -6,7 +6,8 @@
  - Etape 1 : Téléchargez le dossier "Baudi-Classes" qui se trouve juste [ICI](https://github.com/Lenigobrick/Flipper_Zero-Files/tree/main/Sub-Ghz), </br>
  - Etape 2 : Extraire le dossier vers votre bureau, </br>
  - Etape 3 : Mettre le dossier "lycee" dans **SD Card -> subghz -> [Le Dossier lycee ICI]**
- - Etape 4 : Mettre les autres dossiers (hors README.md) dans **SD Card -> subghz_remote -> [Les Uatres Dossiers ICI]**
+ - Etape 4 : Mettre le fichier [down_volets-playlist.txt](https://github.com/Lenigobrick/Flipper_Zero-Files/blob/main/Sub-Ghz/Lycee_arrageois-classes/down_volets-playlist.txt) avec vos autres fichiers de Playlist.
+ - Etape 5 : Mettre les autres dossiers (hors README.md) dans **SD Card -> subghz_remote -> [Les Uatres Dossiers ICI]**
 
 ---
 
@@ -17,6 +18,7 @@
  - Etape 3 Supprimez le dossier "lycee" dans **SD Card -> subghz -> lycee**
  - Etape 4 : Mettre le nouveau dossier qui vient d'être mis sur votre bureau dans **SD Card -> subghz -> [Le Dossier lycee ICI]**
  - Etape 4 : Mettre les nouveaux dossiers de classe souhaiter ou alors supprimer les tous et ajouter la liste de dossier dans **SD Card -> subghz_remote -> [Les Uatres Dossiers ICI]**
+ - Etape 5 : remplacer le fichier "down_volets-playlist.txt" par le nouveau.
 
 ---
 
