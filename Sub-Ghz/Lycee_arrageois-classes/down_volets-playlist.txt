@@ -28,3 +28,7 @@ sub: /ext/subghz/lycee/etude/7_down.sub
 sub: /ext/subghz/lycee/etude/8_down.sub
 sub: /ext/subghz/lycee/etude/9_down.sub
 sub: /ext/subghz/lycee/etude/10_down.sub
+sub: /ext/subghz/lycee/etude/11_down.sub
+sub: /ext/subghz/lycee/etude/12_down.sub
+sub: /ext/subghz/lycee/etude/13_down.sub
+sub: /ext/subghz/lycee/etude/14_down.sub
