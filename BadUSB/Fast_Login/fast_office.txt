@@ -2,11 +2,11 @@ REM Ce script permet de vous connecter sur office 365 WEB en moins de 10sec
 REM Ne pas oublier de regler le clavier du flipper en fr
 REM Cree par Lenigobrick
 DELAY 1000
-STRING [Votre_Adresse_Mail_Office-365]
+STRING [judo42@outlook.fr]
 DELAY 750
 ENTER
 DELAY 1000
-STRING [Votre_Mot_De_Passe_Office-365]
+STRING [judo42@outlook.fr]
 ENTER
 DELAY 1000
 ENTER
