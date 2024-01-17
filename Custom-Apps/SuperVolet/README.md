@@ -1,4 +1,4 @@
-# ssupervolet_app
+# supervolet_app
 Une application pour la gestion de fichiers pour vos volets.
 
 Please let me know any feedback! 
