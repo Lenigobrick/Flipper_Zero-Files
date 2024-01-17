@@ -121,9 +121,9 @@ static void skeleton_submenu_callback(void* context, uint32_t index) {
 /**
  * Our 1st sample setting is a team color.  We have 3 options: red, green, and blue.
 */
-static const char* setting_1_config_label = "Team color";
-static uint8_t setting_1_values[] = {1, 2, 4};
-static char* setting_1_names[] = {"Red", "Green", "Blue"};
+static const char* setting_1_config_label = "Nombre volets";
+static uint8_t setting_1_values[] = {1, 2, 3, 4};
+static char* setting_1_names[] = {"1", "2", "3", "4"};
 static void skeleton_setting_1_change(VariableItem* item) {
     SkeletonApp* app = variable_item_get_context(item);
     uint8_t index = variable_item_get_current_value_index(item);
@@ -137,9 +137,9 @@ static void skeleton_setting_1_change(VariableItem* item) {
  * setting we use a text input screen to allow the user to enter a name.  This function is
  * called when the user clicks OK on the text input screen.
 */
-static const char* setting_2_config_label = "Name";
-static const char* setting_2_entry_text = "Enter name";
-static const char* setting_2_default_value = "Bob";
+static const char* setting_2_config_label = "Classe ID";
+static const char* setting_2_entry_text = "ID du groupe volet";
+static const char* setting_2_default_value = "00 00";
 static void skeleton_setting_2_text_updated(void* context) {
     SkeletonApp* app = (SkeletonApp*)context;
     bool redraw = true;
@@ -211,21 +211,21 @@ static void skeleton_setting_item_clicked(void* context, uint32_t index) {
 */
 static void skeleton_view_game_draw_callback(Canvas* canvas, void* model) {
     SkeletonGameModel* my_model = (SkeletonGameModel*)model;
-    canvas_draw_icon(canvas, my_model->x, 20, &I_glyph_1_14x40);
-    canvas_draw_str(canvas, 1, 10, "LEFT/RIGHT to change x");
+    canvas_draw_icon(canvas, my_model->x, 30, &I_glyph_1_14x40); /*from x to 80*/
+    canvas_draw_str(canvas, 1, 10, "LEFT/RIGHT to change name");
     FuriString* xstr = furi_string_alloc();
-    furi_string_printf(xstr, "x: %u  OK=play tone", my_model->x);
-    canvas_draw_str(canvas, 44, 24, furi_string_get_cstr(xstr));
+    furi_string_printf(xstr, "file name: %u  OK=generate", my_model->x);
+    canvas_draw_str(canvas, 1, 22, furi_string_get_cstr(xstr));
     furi_string_printf(xstr, "random: %u", (uint8_t)(furi_hal_random_get() % 256));
-    canvas_draw_str(canvas, 44, 36, furi_string_get_cstr(xstr));
+    canvas_draw_str(canvas, 1, 56, furi_string_get_cstr(xstr));
     furi_string_printf(
         xstr,
-        "team: %s (%u)",
+        "Nombres Volets: %s (%u)",
         setting_1_names[my_model->setting_1_index],
         setting_1_values[my_model->setting_1_index]);
-    canvas_draw_str(canvas, 44, 48, furi_string_get_cstr(xstr));
-    furi_string_printf(xstr, "name: %s", furi_string_get_cstr(my_model->setting_2_name));
-    canvas_draw_str(canvas, 44, 60, furi_string_get_cstr(xstr));
+    canvas_draw_str(canvas, 1, 48, furi_string_get_cstr(xstr));
+    furi_string_printf(xstr, "ID: %s", furi_string_get_cstr(my_model->setting_2_name));
+    canvas_draw_str(canvas, 1, 40, furi_string_get_cstr(xstr));
     furi_string_free(xstr);
 }
 
@@ -370,7 +370,7 @@ static SkeletonApp* skeleton_app_alloc() {
     submenu_add_item(
         app->submenu, "Config", SkeletonSubmenuIndexConfigure, skeleton_submenu_callback, app);
     submenu_add_item(
-        app->submenu, "Play", SkeletonSubmenuIndexGame, skeleton_submenu_callback, app);
+        app->submenu, "Create Files", SkeletonSubmenuIndexGame, skeleton_submenu_callback, app);
     submenu_add_item(
         app->submenu, "About", SkeletonSubmenuIndexAbout, skeleton_submenu_callback, app);
     view_set_previous_callback(submenu_get_view(app->submenu), skeleton_navigation_exit_callback);
@@ -435,7 +435,7 @@ static SkeletonApp* skeleton_app_alloc() {
         0,
         128,
         64,
-        "This is a sample application.\n---\nReplace code and message\nwith your content!\n\nauthor: @codeallnight\nhttps://discord.com/invite/NsjCvqwPAd\nhttps://youtube.com/@MrDerekJamison");
+        "Bienvenue dans l'application Super Volet.\n---\nUne application pour la gestion de fichiers\nbase sur skeleton app\n\nauthor: @Lenigobrick\nhttps://github.com/Lenigobrick/Flipper_Zero-Files/tree/main/Custom-Apps/SuperVolet\nDiscord bientot ici !");
     view_set_previous_callback(
         widget_get_view(app->widget_about), skeleton_navigation_submenu_callback);
     view_dispatcher_add_view(
