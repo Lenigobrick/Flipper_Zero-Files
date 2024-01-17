@@ -1,0 +1,15 @@
+App(
+    appid="supervolet_app",
+    name="[BETA] Super Volet",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="main_supervolet_app",
+    stack_size=4 * 1024,
+    requires=[
+        "gui",
+    ],
+    order=10,
+    fap_icon="app.png",
+    fap_category="Tools",
+    fap_icon_assets="assets",
+    fap_description="Super Volet App.  Pour la gestion des fichiers des volets.",
+)
