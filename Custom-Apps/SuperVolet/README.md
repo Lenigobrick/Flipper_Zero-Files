@@ -2,10 +2,9 @@
 Une application pour la gestion de fichiers pour vos volets.
 
 Please let me know any feedback! 
-- Discord - https://discord.com/invite/NsjCvqwPAd  (@CodeAllNight)
-- YouTube - https://youtube.com/@MrDerekJamison/playlists
-- GitHub - https://github.com/jamisonderek/flipper-zero-tutorials
-- Wiki - https://github.com/jamisonderek/flipper-zero-tutorials/wiki
+- Discord - https://discord.com/invite/  (@CodeAllNight)
+- YouTube - https://youtube.com/
+- GitHub - https://github.com/Lenigobrick
 
 # Overview
 This application has three submenu items:
