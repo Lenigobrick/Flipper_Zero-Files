@@ -1,5 +1,5 @@
 # skeleton_app
-You can use this application as a starting point for creating your own application.  It contains the skeleton framework to get an application running on the Flipper Zero.
+Une application pour la gestion de fichiers pour vos volets.
 
 Please let me know any feedback! 
 - Discord - https://discord.com/invite/NsjCvqwPAd  (@CodeAllNight)
