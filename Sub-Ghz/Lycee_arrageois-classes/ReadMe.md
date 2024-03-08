@@ -7,7 +7,7 @@
  - Etape 2 : Extraire le dossier vers votre bureau, </br>
  - Etape 3 : Mettre le dossier "lycee" dans **SD Card -> subghz -> [Le Dossier lycee ICI]**
  - Etape 4 : Mettre le fichier [down_volets-playlist.txt](https://github.com/Lenigobrick/Flipper_Zero-Files/blob/main/Sub-Ghz/Lycee_arrageois-classes/down_volets-playlist.txt) dans  **SD Card -> subplaylist -> [Le Fichier lycee ICI]**
- - Etape 5 : Mettre les autres dossiers (hors les fichiers en ".md") dans **SD Card -> subghz_remote -> [Les Uatres Dossiers ICI]**
+ - Etape 5 : Mettre les autres dossiers (hors les fichiers en ".md") dans **SD Card -> subghz_remote -> [Les Autres Dossiers ICI]**
 
 ---
 
