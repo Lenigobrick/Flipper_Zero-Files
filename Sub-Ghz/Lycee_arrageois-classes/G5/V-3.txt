@@ -1,0 +1,6 @@
+UP: /ext/subghz/lycee/g5/3_up.sub
+DOWN: /ext/subghz/lycee/g5/3_down.sub
+OK: /ext/subghz/lycee/g5/3_stop.sub
+ULABEL: Up
+DLABEL: Down
+OKLABEL: Stop
