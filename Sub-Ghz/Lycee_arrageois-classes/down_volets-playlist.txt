@@ -57,3 +57,22 @@ sub: /ext/subghz/lycee/etude/12_down.sub
 sub: /ext/subghz/lycee/etude/13_down.sub
 sub: /ext/subghz/lycee/etude/14_down.sub
 sub: /ext/subghz/lycee/etude/15_down.sub
+#
+# UNK1
+sub: /ext/subghz/lycee/unk1/1_down.sub
+sub: /ext/subghz/lycee/unk1/2_down.sub
+sub: /ext/subghz/lycee/unk1/3_down.sub
+sub: /ext/subghz/lycee/unk1/4_down.sub
+#
+# UNK2
+sub: /ext/subghz/lycee/unk2/1_down.sub
+sub: /ext/subghz/lycee/unk2/2_down.sub
+sub: /ext/subghz/lycee/unk2/3_down.sub
+sub: /ext/subghz/lycee/unk2/4_down.sub
+#
+# UNK3
+sub: /ext/subghz/lycee/unk3/1_down.sub
+sub: /ext/subghz/lycee/unk3/2_down.sub
+sub: /ext/subghz/lycee/unk3/3_down.sub
+sub: /ext/subghz/lycee/unk3/4_down.sub
+#
