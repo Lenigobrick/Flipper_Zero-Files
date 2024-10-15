@@ -8,13 +8,33 @@ sub: /ext/subghz/lycee/r3/4_down_all.sub
 sub: /ext/subghz/lycee/d5/1_down_all.sub
 sub: /ext/subghz/lycee/d5/2_down.sub
 #
-# G6
-sub: /ext/subghz/lycee/g6/1_down.sub
-sub: /ext/subghz/lycee/g6/2_down.sub
+# D6
+sub: /ext/subghz/lycee/r3/1_down.sub
 #
 # D7
 sub: /ext/subghz/lycee/d7/1_down.sub
 sub: /ext/subghz/lycee/d7/2_down.sub
+#
+# G6
+sub: /ext/subghz/lycee/g6/1_down.sub
+sub: /ext/subghz/lycee/g6/2_down.sub
+#
+# G7
+sub: /ext/subghz/lycee/g7/1_down.sub
+sub: /ext/subghz/lycee/g7/2_down.sub
+#
+# G2
+sub: /ext/subghz/lycee/g2/1_down.sub
+sub: /ext/subghz/lycee/g2/2_down.sub
+sub: /ext/subghz/lycee/g2/3_down.sub
+#
+# G5
+sub: /ext/subghz/lycee/g5/1_down.sub
+sub: /ext/subghz/lycee/g5/2_down.sub
+sub: /ext/subghz/lycee/g5/3_down.sub
+sub: /ext/subghz/lycee/g5/4_down.sub
+sub: /ext/subghz/lycee/g5/5_down.sub
+sub: /ext/subghz/lycee/g5/6_down.sub
 #
 # SP7
 sub: /ext/subghz/lycee/sp7/1_down.sub
@@ -37,6 +57,3 @@ sub: /ext/subghz/lycee/etude/12_down.sub
 sub: /ext/subghz/lycee/etude/13_down.sub
 sub: /ext/subghz/lycee/etude/14_down.sub
 sub: /ext/subghz/lycee/etude/15_down.sub
-#
-# D6
-sub: /ext/subghz/lycee/d6/1_down.sub
