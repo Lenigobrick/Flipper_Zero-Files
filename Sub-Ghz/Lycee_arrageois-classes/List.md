@@ -10,6 +10,7 @@
 | G6 | B1 D5 |
 | Étude | B6 62 |
 | D6 | B2 1C |
+| G2 | B6 AD |
 | G5 | B2 18 |
 | G7 | B1 FE |
 | UNK | B1 E6 |
