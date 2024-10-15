@@ -7,11 +7,11 @@
 | D5 | B1 D8 |
 | D7 | B6 71 |
 | SP7 | B6 58 |
-| G6 | B1 D5 |
 | Étude | B6 62 |
 | D6 | B2 1C |
 | G2 | B6 AD |
 | G5 | B2 18 |
+| G6 | B1 D5 |
 | G7 | B1 FE |
 | UNK | B1 E6 |
 
