@@ -36,6 +36,10 @@ sub: /ext/subghz/lycee/g5/4_down.sub
 sub: /ext/subghz/lycee/g5/5_down.sub
 sub: /ext/subghz/lycee/g5/6_down.sub
 #
+# SP5
+sub: /ext/subghz/lycee/sp5/1_down.sub
+sub: /ext/subghz/lycee/sp5/2_down.sub
+#
 # SP7
 sub: /ext/subghz/lycee/sp7/1_down.sub
 sub: /ext/subghz/lycee/sp7/2_down.sub
