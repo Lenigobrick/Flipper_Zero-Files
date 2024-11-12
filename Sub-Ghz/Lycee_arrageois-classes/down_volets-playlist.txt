@@ -9,7 +9,7 @@ sub: /ext/subghz/lycee/d5/1_down_all.sub
 sub: /ext/subghz/lycee/d5/2_down.sub
 #
 # D6
-sub: /ext/subghz/lycee/r3/1_down.sub
+sub: /ext/subghz/lycee/d6/1_down.sub
 #
 # D7
 sub: /ext/subghz/lycee/d7/1_down.sub
